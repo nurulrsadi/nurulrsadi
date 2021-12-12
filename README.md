@@ -14,16 +14,18 @@ Here are some ideas to get you started:
 -->
 
 # Hi there 👋 , I'm Nurul !
-I love learn new thing- !  
+I'd love to learn new thing- !  
 
 
 ### Stats:
- <strong>What i am learning/working on these days</strong></br>
-     🌱 I’m currently learning anything. </br>
-     💬 Ask me about anything.</br>
-     📫 How to reach me: <a href="https://www.linkedin.com/in/nurul-rachmayani-sadi-60a40710a/">LinkedIn!</a>  </br>
-     😄 Pronouns: She/Her </br>
-     ⚡ Fun fact: my lover is music </br>
+<details>
+ <summary><strong>What i am learning/working on these days</strong></summary>
+    &nbsp;🌱 I’m currently learning anything. </br>
+    &nbsp; 💬 Ask me about anything.</br>
+    &nbsp; 📫 How to reach me: <a href="https://www.linkedin.com/in/nurul-rachmayani-sadi-60a40710a/">LinkedIn!</a>  </br>
+    &nbsp; 😄 Pronouns: She/Her </br>
+    &nbsp; ⚡ Fun fact: my lover is music </br>
+</details>
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=nurulrsadi&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
