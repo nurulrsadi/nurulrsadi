@@ -16,15 +16,13 @@ Here are some ideas to get you started:
 # Hi there 👋 , I'm Nurul !
 I'd love to learn new thing- !  
 
-
-### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    &nbsp;🌱 I’m currently learning anything. </br>
-    &nbsp; 💬 Ask me about anything.</br>
-    &nbsp; 📫 How to reach me: <a href="https://www.linkedin.com/in/nurul-rachmayani-sadi-60a40710a/">LinkedIn!</a>  </br>
-    &nbsp; 😄 Pronouns: She/Her </br>
-    &nbsp; ⚡ Fun fact: my lover is music </br>
+    &emsp;🌱 I’m currently learning anything. </br>
+    &emsp; 💬 Ask me about anything.</br>
+    &emsp; 📫 How to reach me: <a href="https://www.linkedin.com/in/nurul-rachmayani-sadi-60a40710a/">LinkedIn!</a>  </br>
+    &emsp; 😄 Pronouns: She/Her </br>
+    &emsp; ⚡ Fun fact: my lover is music </br>
 </details>
 
 <p>
