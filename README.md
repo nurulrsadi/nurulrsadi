@@ -22,7 +22,7 @@ I'd love to learn new thing- !
     &emsp; 💬 Ask me about anything.</br>
     &emsp; 📫 How to reach me: <a href="https://www.linkedin.com/in/nurul-rachmayani-sadi-60a40710a/">LinkedIn!</a>  </br>
     &emsp; 😄 Pronouns: She/Her </br>
-    &emsp; ⚡ Fun fact: my lover is music </br>
+    &emsp; ⚡ Fun fact: ?? </br>
 </details>
 
 <p>
